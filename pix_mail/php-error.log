@@ -1,0 +1,108 @@
+[04-Oct-2017 10:36:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:37:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:38:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('swsadik1@gmail....', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:39:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('amine.sadiki201...', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:40:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('amine.sadiki201...', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:40:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('amine.sadiki201...', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:40:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('amine.sadiki201...', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
+[04-Oct-2017 10:40:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid MailChimp API key `` supplied.' in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php:39
+Stack trace:
+#0 /home/u346341023/public_html/elements/pix_mail/new_contact.php(230): MailChimp->__construct('')
+#1 /home/u346341023/public_html/elements/pix_mail/new_contact.php(122): sendMailChimp('amine.sadiki201...', Array, 'EN', Array)
+#2 {main}
+  thrown in /home/u346341023/public_html/elements/pix_mail/api_mailchimp/MailChimp.php on line 39
